@@ -129,6 +129,33 @@ Design principles compiled from industry best practices, research papers, and ca
 - Revolut
 - Phantom
 - Apple (Design Award winners)
+# AI Influencer Mobile UI Kit
+
+[![Install with npx](https://img.shields.io/badge/install-npx%20skills%20add-blue)](https://skills.sh)
+[![Agent Skills](https://img.shields.io/badge/agent-skills-purple)](https://agentskills.io)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A comprehensive UI Kit for designing professional, AI-driven influencer mobile interfaces that follow proven design principles from top-tier apps like Instagram, TikTok, and Midjourney.
+
+## Overview
+
+This UI Kit guides the creation of mobile app UIs for AI Influencers that are intentional, futuristic, and alive — not just functional. It covers everything from prompt engineering visuals to implementation details.
+
+## Features
+
+- **Complete Design Process**: 5-step framework from context to polish
+- **Industry-Specific Conventions**: Design patterns for AI, Digital Art, and Social Media
+- **Emotional Design Principles**: Peak-End Rule, feedback loops, and futuristic aesthetics
+- **Design Systems**: Typography, color (60/30/10 rule), spacing (8-point grid)
+- **Implementation Guidance**: React Native, Tailwind CSS, component patterns
+
+## When to Use
+
+This UI Kit automatically triggers when you ask to:
+- Design an AI Influencer profile screen
+- Create mobile app mockups for AI agents
+- Build mobile UI components for prompt generators
+
 
 ---
 
